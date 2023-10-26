@@ -34,9 +34,7 @@ public class PositionType {
     }
 
     @Override
-    public int hashCode() {
-        return Objects.hash(id);
-    }
+    public int hashCode() { return Objects.hash(id); }
 
 
     // Getters and Setters:
